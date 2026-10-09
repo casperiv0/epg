@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channels>
+  <channel site="pickx.be" site_id="DTV29670499" lang="fr" xmltv_id="MaghrebTV.be@SD">Maghreb TV</channel>
+  <channel site="pickx.be" site_id="UID0025" lang="fr" xmltv_id="TipikVision.be@SD">TIPIK vision</channel>
+  <channel site="pickx.be" site_id="UID2374" lang="nl" xmltv_id="DobbitTV.be@NLHD">Dobbit N HD</channel>
+  <channel site="pickx.be" site_id="UID0039" lang="nl" xmltv_id="VTM2.be@HD">VTM 2 HD</channel>
+  <channel site="pickx.be" site_id="UID0081" lang="fr" xmltv_id="PickxPlus.be@FRHD">Pickx+ F HD</channel>
+  <channel site="pickx.be" site_id="UID0082" lang="nl" xmltv_id="PickxPlus.be@NLHD">Pickx+ N HD</channel>
+  <channel site="pickx.be" site_id="UID0043" lang="fr" xmltv_id="DobbitTV.be@FR">Dobbit TV F</channel>
+  <channel site="pickx.be" site_id="UID0047" lang="fr" xmltv_id="Tipik.be@HD">TIPIK HD</channel>
+  <channel site="pickx.be" site_id="UID0062" lang="nl" xmltv_id="PlattelandsTV.be@SD">Plattelands</channel>
+  <channel site="pickx.be" site_id="UID0084" lang="fr" xmltv_id="AB3.be@HD">AB3 HD</channel>
+  <channel site="pickx.be" site_id="UID0102" lang="fr" xmltv_id="RTLTVI.be@HD">RTL tvi HD</channel>
+  <channel site="pickx.be" site_id="UID0106" lang="fr" xmltv_id="RTLPlug.be@HD">RTL plug HD</channel>
+  <channel site="pickx.be" site_id="UID2341" lang="fr" xmltv_id="Telesambre.be@HD">Télé Sambre HD</channel>
+  <channel site="pickx.be" site_id="UID2346" lang="fr" xmltv_id="Vedia.be@HD">Védia HD</channel>
+  <channel site="pickx.be" site_id="UID2344" lang="fr" xmltv_id="TVLux.be@HD">TV Lux HD</channel>
+  <channel site="pickx.be" site_id="UID2331" lang="fr" xmltv_id="Matele.be@HD">MaTélé HD</channel>
+  <channel site="pickx.be" site_id="UID0147" lang="nl" xmltv_id="Play6.be@HD">Play6 HD</channel>
+  <channel site="pickx.be" site_id="UID0155" lang="nl" xmltv_id="VTM3.be@HD">VTM 3 HD</channel>
+  <channel site="pickx.be" site_id="UID0194" lang="fr" xmltv_id="BelRTL.be@HD">bel RTL HD</channel>
+  <channel site="pickx.be" site_id="UID0211" lang="nl" xmltv_id="EclipsTV.be@SD">Eclips</channel>
+  <channel site="pickx.be" site_id="UID0231" lang="fr" xmltv_id="ABXplore.be@HD">ABXPLO HD</channel>
+  <channel site="pickx.be" site_id="UID0232" lang="nl" xmltv_id="Njam.be@HD">Njam! HD</channel>
+  <channel site="pickx.be" site_id="UID0248" lang="nl" xmltv_id="Ketnet.be@HD">Ketnet HD</channel>
+  <channel site="pickx.be" site_id="UID0300" lang="fr" xmltv_id="Be1.be@SD">Be1</channel>
+  <channel site="pickx.be" site_id="UID0301" lang="fr" xmltv_id="BeCine.be@SD">Be Ciné</channel>
+  <channel site="pickx.be" site_id="UID0302" lang="fr" xmltv_id="BeSeries.be@SD">Be Séries</channel>
+  <channel site="pickx.be" site_id="UID0305" lang="fr" xmltv_id="CinePlusClassic.be@SD">Ciné+Classic</channel>
+  <channel site="pickx.be" site_id="UID0311" lang="fr" xmltv_id="LN24.be@SD">LN24</channel>
+  <channel site="pickx.be" site_id="UID0313" lang="nl" xmltv_id="VTMGold.be@SD">VTM Gold</channel>
+  <channel site="pickx.be" site_id="UID0813" lang="nl" xmltv_id="StuBru.be@SD">StuBru</channel>
+  <channel site="pickx.be" site_id="UID0999" lang="fr" xmltv_id="PromiusPickxInfoChannel.be@SD">InfoChannel</channel>
+  <channel site="pickx.be" site_id="UID1102" lang="nl" xmltv_id="VlaamsParlementTV.be@SD">Vlaamsparlement.tv</channel>
+  <channel site="pickx.be" site_id="UID2047" lang="nl" xmltv_id="VTMLife.be@HD">VTM Life HD</channel>
+  <channel site="pickx.be" site_id="UID2049" lang="nl" xmltv_id="KanaalZ.be@HD">Kanaal Z HD</channel>
+  <channel site="pickx.be" site_id="UID2050" lang="fr" xmltv_id="CanalZ.be@HD">Canal Z HD</channel>
+  <channel site="pickx.be" site_id="UID2071" lang="fr" xmltv_id="PickxLive.be@FRHD">Pickx Showcase F HD</channel>
+  <channel site="pickx.be" site_id="UID2073" lang="nl" xmltv_id="VTM4.be@HD">VTM 4 HD</channel>
+  <channel site="pickx.be" site_id="UID2074" lang="nl" xmltv_id="PickxLive.be@NL">Pickx Showcase N HD</channel>
+  <channel site="pickx.be" site_id="UID2120" lang="nl" xmltv_id="Play4.be@HD">Play4 HD</channel>
+  <channel site="pickx.be" site_id="UID2121" lang="nl" xmltv_id="Play5.be@HD">Play5 HD</channel>
+  <channel site="pickx.be" site_id="UID2293" lang="nl" xmltv_id="Play7.be@HD">Play7 HD</channel>
+  <channel site="pickx.be" site_id="UID2321" lang="fr" xmltv_id="ACTV.be@HD">Antenne Centre HD</channel>
+  <channel site="pickx.be" site_id="UID2322" lang="nl" xmltv_id="ATV.be@HD">ATV HD</channel>
+  <channel site="pickx.be" site_id="UID2323" lang="nl" xmltv_id="AVS.be@HD">AVS HD</channel>
+  <channel site="pickx.be" site_id="UID2326" lang="nl" xmltv_id="Bruzz.be@HD">BRUZZ HD</channel>
+  <channel site="pickx.be" site_id="UID2327" lang="fr" xmltv_id="BX1.be@HD">bx1 HD</channel>
+  <channel site="pickx.be" site_id="UID2328" lang="fr" xmltv_id="Bouke.be@HD">Bouké HD</channel>
+  <channel site="pickx.be" site_id="UID2329" lang="fr" xmltv_id="CanalZoom.be@HD">Canal Zoom HD</channel>
+  <channel site="pickx.be" site_id="UID2330" lang="nl" xmltv_id="FocusTV.be@HD">Focus TV HD</channel>
+  <channel site="pickx.be" site_id="UID2332" lang="fr" xmltv_id="Notele.be@HD">No Télé HD</channel>
+  <channel site="pickx.be" site_id="UID2333" lang="nl" xmltv_id="RingTV.be@HD">Ring TV HD</channel>
+  <channel site="pickx.be" site_id="UID2334" lang="nl" xmltv_id="ROBTV.be@HD">ROBTV HD</channel>
+  <channel site="pickx.be" site_id="UID2335" lang="fr" xmltv_id="QU4TRELiegeMedia.be@HD">Quatre HD</channel>
+  <channel site="pickx.be" site_id="UID2336" lang="nl" xmltv_id="RTVKempen.be@HD">RTV Kempen HD</channel>
+  <channel site="pickx.be" site_id="UID2339" lang="nl" xmltv_id="RTVMech.be@HD">RTV Mech HD</channel>
+  <channel site="pickx.be" site_id="UID2340" lang="fr" xmltv_id="TeleMB.be@HD">Télé MB HD</channel>
+  <channel site="pickx.be" site_id="UID2343" lang="nl" xmltv_id="TVLimburg.be@HD">TV Limburg HD</channel>
+  <channel site="pickx.be" site_id="UID2345" lang="nl" xmltv_id="TVOost.be@HD">TV Oost HD</channel>
+  <channel site="pickx.be" site_id="UID2347" lang="nl" xmltv_id="WTV.be@HD">WTV HD</channel>
+  <channel site="pickx.be" site_id="UID2349" lang="nl" xmltv_id="MentTV.be@HD">Ment TV HD</channel>
+  <channel site="pickx.be" site_id="UID2353" lang="nl" xmltv_id="QMusic.be@SD">Q-Music Kijk Live</channel>
+  <channel site="pickx.be" site_id="UID2552" lang="nl" xmltv_id="HGTV.be@SD">HGTV</channel>
+  <channel site="pickx.be" site_id="UID50014" lang="fr" xmltv_id="RadioContact.be@SD">ContactV</channel>
+  <channel site="pickx.be" site_id="UID50208" lang="nl" xmltv_id="VRT1.be@HD">VRT 1 HD</channel>
+  <channel site="pickx.be" site_id="UID50297" lang="nl" xmltv_id="VTM.be@HD">VTM HD</channel>
+  <channel site="pickx.be" site_id="UID50323" lang="fr" xmltv_id="LaUne.be@HD">La Une HD</channel>
+  <channel site="pickx.be" site_id="UID50209" lang="fr" xmltv_id="RTLClub.be@HD">RTL club HD</channel>
+  <channel site="pickx.be" site_id="UID50306" lang="nl" xmltv_id="VRTCanvas.be@HD">VRT Canvas HD</channel>
+  <channel site="pickx.be" site_id="UID50117" lang="nl" xmltv_id="AVSGent.be@SD">AVS Gent</channel>
+  <channel site="pickx.be" site_id="UID50334" lang="fr" xmltv_id="LaTrois.be@HD">La Trois HD</channel>
+</channels>
